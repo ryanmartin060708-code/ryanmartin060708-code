@@ -66,28 +66,74 @@ currently_exploring: "SHAP explainability, hyperparameter tuning (Optuna), geosp
 
 ## → Featured Repositories
 
-<div align="center">
+<table width="100%">
+<tr>
+<td width="50%" valign="top">
 
-<a href="https://github.com/ryanmartin060708-code/credit-fraud-detection">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=ryanmartin060708-code&repo=credit-fraud-detection&theme=tokyonight&hide_border=true" />
-</a>
-<a href="https://github.com/ryanmartin060708-code/Disaster-dashboard">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=ryanmartin060708-code&repo=Disaster-dashboard&theme=tokyonight&hide_border=true" />
-</a>
-<a href="https://github.com/ryanmartin060708-code/support-vector-networks-reproduction">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=ryanmartin060708-code&repo=support-vector-networks-reproduction&theme=tokyonight&hide_border=true" />
-</a>
-<a href="https://github.com/ryanmartin060708-code/principal-component-analysis">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=ryanmartin060708-code&repo=principal-component-analysis&theme=tokyonight&hide_border=true" />
-</a>
-<a href="https://github.com/ryanmartin060708-code/cloudoptim-dashboard">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=ryanmartin060708-code&repo=cloudoptim-dashboard&theme=tokyonight&hide_border=true" />
-</a>
-<a href="https://github.com/ryanmartin060708-code/ucl-manager-2026">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=ryanmartin060708-code&repo=ucl-manager-2026&theme=tokyonight&hide_border=true" />
-</a>
+### 🔳 [qrcodegen](https://github.com/ryanmartin060708-code/qrcodegen)
+Modern, production-ready QR code generator built with Next.js 15, TypeScript & shadcn/ui. Generate, preview, and download QR codes entirely client-side — zero backend.
+<br/>`Next.js` `TypeScript` `Tailwind` `shadcn/ui`
+<br/>🔗 [Live demo](https://qrcodegen-six.vercel.app/)
 
-</div>
+</td>
+<td width="50%" valign="top">
+
+### 📄 [pdfwizard](https://github.com/ryanmartin060708-code/pdfwizard)
+Vercel/Apple-inspired image-to-PDF converter. Drag-and-drop reordering, crop/rotate, custom page sizes & margins — 100% client-side, no uploads.
+<br/>`Next.js` `TypeScript` `Framer Motion` `pdf-lib`
+<br/>🔗 [Live demo](https://pdfwizard-murex.vercel.app/)
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+### 💰 [expensetracker101](https://github.com/ryanmartin060708-code/expensetracker101)
+Personal expense tracking application for logging, categorizing, and visualizing day-to-day spending.
+<br/>`TypeScript` `Next.js`
+
+</td>
+<td width="50%" valign="top">
+
+### 🛡️ [codesage-ai](https://github.com/ryanmartin060708-code/codesage-ai)
+Self-hosted AI-powered code review platform combining static analysis (Pylint, Bandit, ESLint, Semgrep) with local LLMs via Ollama and a ChromaDB RAG index for security, quality & architecture reviews.
+<br/>`FastAPI` `Next.js` `PostgreSQL` `Ollama` `ChromaDB`
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+### 💳 [credit-fraud-detection](https://github.com/ryanmartin060708-code/credit-fraud-detection)
+End-to-end credit card fraud detection platform — 6 ML models, Optuna hyperparameter tuning, SHAP explainability, and an interactive Streamlit dashboard with batch prediction and risk scoring.
+<br/>`Python` `Streamlit` `scikit-learn` `Optuna` `SHAP`
+
+</td>
+<td width="50%" valign="top">
+
+### 🌪️ [Disaster-dashboard](https://github.com/ryanmartin060708-code/Disaster-dashboard)
+Real-time disaster monitoring dashboard for India — live weather (OpenWeather API), interactive flood zone maps (Leaflet.js), cyclone alerts, traffic conditions, and relief camp tracking.
+<br/>`HTML` `Leaflet.js` `OpenWeather API`
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+### 🧮 [support-vector-networks-reproduction](https://github.com/ryanmartin060708-code/support-vector-networks-reproduction)
+From-scratch reproduction of the seminal 1995 Support Vector Networks (SVM) paper by Cortes & Vapnik.
+<br/>`Python`
+
+</td>
+<td width="50%" valign="top">
+
+### 📉 [principal-component-analysis](https://github.com/ryanmartin060708-code/principal-component-analysis)
+PCA implemented from scratch in Python — dimensionality reduction fundamentals without relying on library black boxes.
+<br/>`Python`
+
+</td>
+</tr>
+</table>
 
 <br/>
 
@@ -95,12 +141,14 @@ currently_exploring: "SHAP explainability, hyperparameter tuning (Optuna), geosp
 
 | Repository | Description | Stack |
 |---|---|---|
-| **[credit-fraud-detection](https://github.com/ryanmartin060708-code/credit-fraud-detection)** | End-to-end credit card fraud detection platform — 6 ML models, Optuna hyperparameter tuning, SHAP explainability, and an interactive Streamlit dashboard with batch prediction and risk scoring. | `Python` `Streamlit` `scikit-learn` `Optuna` `SHAP` |
-| **[Disaster-dashboard](https://github.com/ryanmartin060708-code/Disaster-dashboard)** | Real-time disaster monitoring dashboard for India with live weather (OpenWeather API), interactive flood zone maps (Leaflet.js), cyclone alerts, traffic conditions, and relief camp tracking. | `HTML` `Leaflet.js` `OpenWeather API` |
-| **[support-vector-networks-reproduction](https://github.com/ryanmartin060708-code/support-vector-networks-reproduction)** | From-scratch reproduction of the seminal 1995 Support Vector Networks (SVM) paper by Cortes & Vapnik. | `Python` |
-| **[principal-component-analysis](https://github.com/ryanmartin060708-code/principal-component-analysis)** | PCA implemented from scratch in Python — dimensionality reduction fundamentals without relying on library black boxes. | `Python` |
-| **[cloudoptim-dashboard](https://github.com/ryanmartin060708-code/cloudoptim-dashboard)** | Cloud resource optimization dashboard. | `HTML` |
-| **[ucl-manager-2026](https://github.com/ryanmartin060708-code/ucl-manager-2026)** | UEFA Champions League management/simulation project for the 2026 season. | `HTML` |
+| **[qrcodegen](https://github.com/ryanmartin060708-code/qrcodegen)** | Client-side QR code generator — generate, preview, and download QR codes for any URL. | `Next.js` `TypeScript` `Tailwind` |
+| **[pdfwizard](https://github.com/ryanmartin060708-code/pdfwizard)** | Image-to-PDF converter with drag-and-drop reordering, cropping, and custom page settings, all in-browser. | `Next.js` `TypeScript` `pdf-lib` |
+| **[expensetracker101](https://github.com/ryanmartin060708-code/expensetracker101)** | Personal expense tracker for logging and visualizing spending. | `TypeScript` `Next.js` |
+| **[codesage-ai](https://github.com/ryanmartin060708-code/codesage-ai)** | Self-hosted AI code review platform — static analysis + local LLM review + RAG code chat. | `FastAPI` `Next.js` `Ollama` `ChromaDB` |
+| **[credit-fraud-detection](https://github.com/ryanmartin060708-code/credit-fraud-detection)** | End-to-end credit card fraud detection — 6 ML models, Optuna tuning, SHAP explainability, Streamlit dashboard. | `Python` `Streamlit` `scikit-learn` |
+| **[Disaster-dashboard](https://github.com/ryanmartin060708-code/Disaster-dashboard)** | Real-time disaster monitoring dashboard for India with live weather, flood maps, and relief camp tracking. | `HTML` `Leaflet.js` |
+| **[support-vector-networks-reproduction](https://github.com/ryanmartin060708-code/support-vector-networks-reproduction)** | From-scratch reproduction of the 1995 SVM paper. | `Python` |
+| **[principal-component-analysis](https://github.com/ryanmartin060708-code/principal-component-analysis)** | PCA implemented from scratch. | `Python` |
 
 > Full list of all repositories: [github.com/ryanmartin060708-code?tab=repositories](https://github.com/ryanmartin060708-code?tab=repositories)
 
