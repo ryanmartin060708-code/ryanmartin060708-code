@@ -55,11 +55,6 @@ currently_exploring: "SHAP explainability, hyperparameter tuning (Optuna), geosp
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=ryanmartin060708-code&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" alt="Ryan's GitHub stats" width="49%" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ryanmartin060708-code&layout=compact&theme=tokyonight&hide_border=true" alt="Top languages" width="45%" />
-
-<br/><br/>
-
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=ryanmartin060708-code&theme=tokyonight&hide_border=true" alt="GitHub streak stats" width="49%"/>
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=ryanmartin060708-code&theme=tokyo-night&hide_border=true" alt="Contribution activity graph" width="49%"/>
 
