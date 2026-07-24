@@ -1,9 +1,9 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=220&section=header&text=Ryan%20Martin&fontSize=55&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Building%20things%20that%20learn,%20monitor,%20and%20optimize&descAlignY=55&descSize=18" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=200&section=header&text=Ryan%20Martin&fontSize=55&fontColor=ffffff&animation=fadeIn&fontAlignY=45" width="100%"/>
 
 <a href="https://github.com/ryanmartin060708-code">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=800&color=7F5AF0&center=true&vCenter=true&width=650&lines=Student+%40+Manipal+Institute+of+Technology+Bengaluru;Machine+Learning+%7C+Data+Science+%7C+Full-Stack;Reproducing+classic+ML+papers+from+scratch;Building+real-time+dashboards+%26+data+platforms" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=800&color=7F5AF0&center=true&vCenter=true&width=550&lines=ML+%2B+Full-Stack+Developer;Reproducing+classic+ML+papers" alt="Typing SVG" />
 </a>
 
 <br/>
@@ -36,13 +36,16 @@ currently_exploring: "SHAP explainability, hyperparameter tuning (Optuna), geosp
 <div align="center">
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 ![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white)
-![Leaflet](https://img.shields.io/badge/Leaflet.js-199900?style=for-the-badge&logo=leaflet&logoColor=white)
+![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white)
 ![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
 ![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white)
 
 </div>
 
@@ -52,13 +55,13 @@ currently_exploring: "SHAP explainability, hyperparameter tuning (Optuna), geosp
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=ryanmartin060708-code&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" width="49%" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ryanmartin060708-code&layout=compact&theme=tokyonight&hide_border=true" width="30%" />
+<img src="https://github-readme-stats.vercel.app/api?username=ryanmartin060708-code&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" alt="Ryan's GitHub stats" width="49%" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ryanmartin060708-code&layout=compact&theme=tokyonight&hide_border=true" alt="Top languages" width="45%" />
 
-<br/>
+<br/><br/>
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=ryanmartin060708-code&theme=tokyonight&hide_border=true" width="49%"/>
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=ryanmartin060708-code&theme=tokyo-night&hide_border=true" width="49%"/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=ryanmartin060708-code&theme=tokyonight&hide_border=true" alt="GitHub streak stats" width="49%"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=ryanmartin060708-code&theme=tokyo-night&hide_border=true" alt="Contribution activity graph" width="49%"/>
 
 </div>
 
@@ -151,14 +154,6 @@ PCA implemented from scratch in Python — dimensionality reduction fundamentals
 | **[principal-component-analysis](https://github.com/ryanmartin060708-code/principal-component-analysis)** | PCA implemented from scratch. | `Python` |
 
 > Full list of all repositories: [github.com/ryanmartin060708-code?tab=repositories](https://github.com/ryanmartin060708-code?tab=repositories)
-
-<br/>
-
-## → Contribution Graph
-
-<div align="center">
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=ryanmartin060708-code&theme=react-dark&hide_border=true&area=true" width="90%"/>
-</div>
 
 <br/>
 
